@@ -1,5 +1,5 @@
 from django.test import TestCase
-from django.utils.translation import ugettext as _
+from django.utils.translation import gettext as _
 from django.templatetags.static import static
 
 from suit import utils
